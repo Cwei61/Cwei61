@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ming Yi,Wei , aka @Cwei61
-- 👀 I’m interested in coding and making friedns.
-- 🌱 I’m currently learning python and swift.
-- 💞️ I’m looking to collaborate on whcih I have not decided yet.
+- 👀 I’m interested in coding and making friends.
+- 🌱 I’m currently learning python, meaching learning and swift.
 - 📫 How to reach me by email : B10832007@mail.ntust.edu.tw or wei573434@gmail.com
 
 <!---
